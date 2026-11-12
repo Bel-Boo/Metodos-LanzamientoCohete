@@ -28,6 +28,6 @@ En local: `pip install -r requirements.txt` y luego `streamlit run app.py`.
 
 ## Enlace de la aplicación
 
-[PEGA AQUÍ TU ENLACE DE STREAMLIT COMMUNITY CLOUD]
+https://metodos-lanzamientocohete-jclzjwhnwqcsmdztehjgw2.streamlit.app/
 
-Autor: Valeria Isabel Estrugo Perez
+Estudiante: Valeria Isabel Estrugo Perez
